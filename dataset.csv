@@ -1,0 +1,61 @@
+id_data,id_intent,contoh_kalimat
+1,1,jam buka
+2,1,perpustakaan buka jam berapa
+3,1,kapan perpustakaan buka
+4,1,jam operasional perpustakaan
+5,1,jam layanan perpustakaan
+6,2,jam tutup
+7,2,perpustakaan tutup jam berapa
+8,2,kapan perpustakaan tutup
+9,2,jam tutup layanan
+10,2,tutup jam berapa
+11,3,berapa denda novel
+12,3,denda keterlambatan novel
+13,3,kena denda novel berapa
+14,3,biaya denda novel
+15,3,denda per hari novel
+16,4,syarat anggota perpustakaan novel
+17,4,cara jadi anggota perpustakaan
+18,4,daftar anggota perpustakaan novel
+19,4,pendaftaran anggota perpustakaan
+20,4,siapa saja yang bisa jadi anggota
+21,5,cara pinjam novel
+22,5,bagaimana meminjam novel
+23,5,proses peminjaman novel
+24,5,pinjam novel bagaimana
+25,5,cara peminjaman novel
+26,6,lama peminjaman novel
+27,6,berapa hari pinjam novel
+28,6,novel dipinjam berapa hari
+29,6,durasi peminjaman novel
+30,6,waktu peminjaman novel
+31,7,perpanjang novel
+32,7,novel bisa diperpanjang
+33,7,perpanjangan peminjaman novel
+34,7,cara perpanjang novel
+35,7,memperpanjang pinjaman novel
+36,8,cari novel
+37,8,mencari novel
+38,8,ada novel
+39,8,lihat daftar novel
+40,8,novel apa saja yang tersedia
+41,9,novel tersedia
+42,9,apakah novel tersedia
+43,9,stok novel
+44,9,novel masih ada
+45,9,ketersediaan novel
+46,10,novel tidak tersedia
+47,10,novel sedang dipinjam
+48,10,stok novel habis
+49,10,novel habis
+50,10,novel kosong
+51,11,kategori novel
+52,11,genre novel
+53,11,novel romance
+54,11,novel fantasi
+55,11,novel fiksi
+56,12,bantuan
+57,12,tolong
+58,12,help
+59,12,bisa bantu
+60,12,saya butuh bantuan
