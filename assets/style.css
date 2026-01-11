@@ -1,0 +1,116 @@
+/* ===== GLOBAL ===== */
+body {
+    font-family: 'Inter', 'Segoe UI', sans-serif;
+    background-color: #f4f6fb;
+}
+
+.block-container {
+    padding: 2rem 3rem;
+}
+
+/* ===== SIDEBAR ===== */
+section[data-testid="stSidebar"] {
+    background: linear-gradient(180deg, #020617, #0f172a);
+    padding: 32px 22px;
+}
+
+.sidebar-logo {
+    font-size: 22px;
+    font-weight: 800;
+    color: #f8fafc;
+    margin-bottom: 36px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.sidebar-link {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 14px 18px;
+    margin-bottom: 14px;
+    border-radius: 16px;
+    color: #c7d2fe;
+    text-decoration: none !important;
+    font-weight: 600;
+    transition: 0.25s;
+}
+
+.sidebar-link:hover {
+    background: linear-gradient(90deg, rgba(37,99,235,.25), rgba(29,78,216,.15));
+    color: white;
+    transform: translateX(4px);
+}
+
+/* ===== TITLE ===== */
+.main-title {
+    font-size: 30px;
+    font-weight: 800;
+    color: #111827;
+}
+
+.sub-title {
+    font-size: 15px;
+    color: #6b7280;
+    margin-bottom: 28px;
+}
+
+/* ===== CARD ===== */
+.card {
+    background: white;
+    border-radius: 22px;
+    padding: 18px;
+    box-shadow: 0 10px 30px rgba(0,0,0,.08);
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: 0.25s;
+}
+
+.card:hover {
+    transform: translateY(-6px);
+}
+
+.card h4 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.author {
+    font-size: 14px;
+    color: #6b7280;
+}
+
+.genre {
+    background: #e0e7ff;
+    color: #1e3a8a;
+    padding: 4px 12px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 600;
+    width: fit-content;
+}
+
+.rating {
+    color: #fbbf24;
+    font-size: 15px;
+    margin-top: 6px;
+}
+
+/* ===== CHAT ===== */
+.chat-user {
+    background: linear-gradient(90deg, #2563eb, #1d4ed8);
+    color: white;
+    padding: 10px 14px;
+    border-radius: 18px 18px 4px 18px;
+    margin-bottom: 10px;
+}
+
+.chat-bot {
+    background: #f3f4f6;
+    padding: 10px 14px;
+    border-radius: 18px 18px 18px 4px;
+    margin-bottom: 10px;
+}
