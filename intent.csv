@@ -1,0 +1,13 @@
+id_intent,nama_intent,respon
+1,jam_buka,Perpustakaan novel buka pukul 08.00 - 16.00
+2,jam_tutup,Perpustakaan novel tutup pukul 16.00
+3,denda,Denda keterlambatan pengembalian novel sebesar Rp1.000 per hari
+4,syarat_anggota,Syarat menjadi anggota adalah memiliki kartu identitas yang valid
+5,cara_pinjam,Silakan pilih novel yang diinginkan lalu lakukan peminjaman melalui petugas
+6,lama_pinjam,Masa peminjaman novel adalah 7 hari
+7,perpanjangan,Perpanjangan peminjaman novel dapat dilakukan satu kali
+8,cari_novel,Silakan sebutkan judul novel yang ingin dicari
+9,ketersediaan_novel,Saya akan mengecek ketersediaan novel tersebut
+10,novel_tidak_tersedia,"Maaf, novel yang Anda cari sedang tidak tersedia"
+11,kategori_novel,"Tersedia berbagai genre novel seperti romance, fantasi, fiksi, dan petualangan"
+12,bantuan,"Saya bisa membantu mencari, merekomendasikan, dan meminjamkan novel"
